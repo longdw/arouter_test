@@ -1,0 +1,5 @@
+include ':lib_base'
+include ':ft_main'
+include ':ft_login'
+include ':app'
+rootProject.name = "arouter_test"
